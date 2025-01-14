@@ -1,0 +1,4 @@
+distance=0.2
+T_left=280
+T_right=300
+k=1.4
