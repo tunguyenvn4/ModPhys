@@ -1,4 +1,9 @@
-distance=0.2
+x=0.5
+y=1
+nodes=11
 T_left=280
+T_top=285
 T_right=300
-k=1.4
+T_bottom=295
+k1=1.4
+k2=0.04
