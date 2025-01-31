@@ -1,0 +1,13 @@
+num_nodes = 11
+distance_x = 2
+distance_y = 1
+k1 = 1.4
+k2 = 0.5
+T_left = 270
+T_right = None
+T_top = 280
+T_bottom = None
+q_left = None
+q_right = None
+q_top = None
+q_bottom = None
